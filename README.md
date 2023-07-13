@@ -17,8 +17,10 @@ Discord-lite is simply a discord wrapper made with <a href="https://tauri.studio
 ## Features
 - [x] Wrapping of discord
 - [ ] Desktop Tray
+- [ ] Launch on startup
 - [ ] Notifications
 - [ ] Rich presence Support
+- [ ] Game Overlay
 - [x] Window resizing
 - [ ] File Dropping
 - [ ] Push To Talk
